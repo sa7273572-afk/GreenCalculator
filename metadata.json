@@ -1,0 +1,6 @@
+{
+  "name": "Green Calculator",
+  "description": "A native Android calculator with dark green display, modern keypad layout, and robust offline calculation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

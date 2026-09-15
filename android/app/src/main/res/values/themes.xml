@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GreenCalculator" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#062316</item>
+        <item name="android:navigationBarColor">#0D1311</item>
+    </style>
+</resources>
